@@ -1,7 +1,13 @@
-div {
+.boxes{
     float: left;
+    width:200px;
+    height: 200px;
+    background-color:black;;
+    line-height: 150px;
 }
-button {
-    float: left;
-
+button{
+    display: block;
+    border:black 2px solid; 
+    border-radius: -20px;
+    background-color: coral;
 }
